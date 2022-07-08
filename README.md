@@ -7,7 +7,8 @@ Outputs an XML file with the average ratio for each day of the timeseries
 
 ## Notes:
 1. If you have 200 kHz data, use XMLFin3PowerDetectDay.m and see the [Wiki](https://github.com/alrice12/Bp-20Hz-Detector/wiki) for a tutorial on running the code. This code can handle small gaps in data.
-2. If you have 320 kHz data, use XMLFinPowerDetectDaySOCAL_320k.m. This code has **not** been modified to handle data gaps, which can result in days becoming offset. Procedure is the same as above but results should be scrutinized if code has not been modified first. 
+2. If you have 320 kHz data, use XMLFinPowerDetectDaySOCAL_320k.m. This code has **not** been modified to handle data gaps, which can result in days becoming offset. Procedure is the same as above but results should be scrutinized if code has not been modified first.
+3. Tested with MATLAB 2013b and 2016b
 
 ## References:
 
