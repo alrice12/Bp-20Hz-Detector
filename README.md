@@ -1,3 +1,5 @@
+![MBARC_logos_mod](https://user-images.githubusercontent.com/54909460/178322271-4e67f95a-4a23-4aa5-8d5a-ec71f83d6130.jpg)
+
 # Bp-20Hz-Detector
 Acoustic energy detector for fin whale 20 Hz calls
 
